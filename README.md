@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tiago Miguel Silva!
+# Tiago Miguel Silva
 
 🎓 Estudante de Engenharia de Telecomunicações e Informática  
 🔐 Entusiasta de Cibersegurança | Analista de Segurança em formação  
