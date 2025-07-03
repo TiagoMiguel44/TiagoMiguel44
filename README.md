@@ -1,6 +1,6 @@
 # Tiago Miguel Silva
 
-🎓 Estudante de Engenharia de Telecomunicações e Informática  
+🎓 Licenciado em Engenharia de Telecomunicações e Informática  
 🔐 Entusiasta de Cibersegurança | Analista de Segurança em formação  
 🧪 A desenvolver projetos de deteção de ataques com Snort e análise de logs com Kibana  
 📌 Links em breve...
